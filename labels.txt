@@ -1,0 +1,10 @@
+0 appel
+1 avocado
+2 pisang
+3 cherry
+4 kiwi
+5 mangga
+6 jeruk
+7 nanas
+8 strawberry
+9 Semangka
